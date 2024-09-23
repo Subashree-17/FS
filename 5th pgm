@@ -1,0 +1,83 @@
+
+[
+  {
+    "name": "John Doe",
+    "age": 35,
+    "position": "Software Engineer",
+    "department": "Engineering",
+    "salary": 80000,
+    "hire_date": "2020-03-15"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 28,
+    "position": "Product Manager",
+    "department": "Product Management",
+    "salary": 90000,
+    "hire_date": "2018-06-10"
+  },
+  {
+    "name": "Michael Johnson",
+    "age": 40,
+    "position": "Sales Manager",
+    "department": "Sales",
+    "salary": 85000,
+    "hire_date": "2017-09-20"
+  },
+  {
+    "name": "Emily Brown",
+    "age": 32,
+    "position": "Marketing Specialist",
+    "department": "Marketing",
+    "salary": 75000,
+    "hire_date": "2019-11-05"
+  },
+  {
+    "name": "David Lee",
+    "age": 27,
+    "position": "Data Analyst",
+    "department": "Analytics",
+    "salary": 70000,
+    "hire_date": "2021-02-28"
+  },
+  {
+    "name": "Sarah Wilson",
+    "age": 31,
+    "position": "HR Manager",
+    "department": "Human Resources",
+    "salary": 82000,
+    "hire_date": "2016-12-12"
+  },
+  {
+    "name": "Kevin Martinez",
+    "age": 29,
+    "position": "UX Designer",
+    "department": "Design",
+    "salary": 78000,
+    "hire_date": "2018-03-25"
+  },
+  {
+    "name": "Amanda Taylor",
+    "age": 34,
+    "position": "Operations Manager",
+    "department": "Operations",
+    "salary": 86000,
+    "hire_date": "2017-05-18"
+  },
+  {
+    "name": "Jason Thomas",
+    "age": 36,
+    "position": "Finance Director",
+    "department": "Finance",
+    "salary": 95000,
+    "hire_date": "2015-08-30"
+  },
+  {
+    "name": "Rachel White",
+    "age": 26,
+    "position": "Software Developer",
+    "department": "Engineering",
+    "salary": 82000,
+    "hire_date": "2020-09-14"
+  }
+]
